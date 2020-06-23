@@ -24,7 +24,7 @@
 
 ## 🏁 Sobre <a name = "about"></a>
 
-- Projeto desenvolvido com o propósito de resolver o desafio sobre o nível 2 do Bootcamp GoStack 12.0 da Rocketseat focado em Node.js, abordando conceitos importantes sobre repository e services pattern, que fazem parte da estrutura Data Mapper Pattern seguindo conceitos SOLID e testes automatizados utilizando [Jest](https://jestjs.io/) 
+- Projeto desenvolvido com o propósito de resolver o desafio sobre o nível 2 do Bootcamp GoStack 12.0 da Rocketseat focado em Node.js, abordando conceitos importantes sobre typescript, repository e services pattern, que fazem parte da estrutura Data Mapper Pattern seguindo conceitos SOLID, usando ESLint e Prettier para padronização do código e testes automatizados utilizando [Jest](https://jestjs.io/) 
 ## 🏁 Inicializando a aplicação <a name = "getting_started"></a>
 
 - O Back-End da aplicação foi desenvolvido em Node JS com o framework Express.
